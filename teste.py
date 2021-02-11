@@ -45,7 +45,7 @@ while True:
     desenha_retangulos(imagem,imagem_tratada)
     cv2.imshow('frame',imagem)
 
-    if cv2.waitKey(5) & 0xFF == ord('q'):
+    if cv2.waitKey(10) & 0xFF == ord('q'):
         break
 
 cap.release()
