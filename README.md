@@ -7,6 +7,6 @@ para usar o codigo passe o argumento -v com o caminho para o video
 A velocidade do video foi reduzida para uma melhor visão dos bounding box, se quiserem aumentar a velocidade
 trocar no waitkey de 5 para 1.
 
-#Versao
+# Versao
 
 A versao de python usada foi a 3.6
